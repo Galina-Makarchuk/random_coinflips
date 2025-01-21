@@ -1,6 +1,6 @@
-# random_coinflips
+# A coin flip simulation web app
 
-An application simulating random coinflips.
+An interactive application for simulating random coin flips.
 
 The app can be tested here:
 https://random-coinflips.onrender.com
