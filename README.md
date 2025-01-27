@@ -15,3 +15,5 @@ __The result__ displays:
 * a table with results from all experiments
 
 Toss a coin by clicking 'Run' and see an interesting effect of this experiment.
+
+<img width="1094" alt="Screenshot 2025-01-27 at 14 55 24" src="https://github.com/user-attachments/assets/c779b0c9-5c4a-4964-86a4-0ab22b873376" />
